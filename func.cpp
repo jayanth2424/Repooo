@@ -3,7 +3,7 @@ using namespace std;
 
 int func(int n)
 {
-   return n*n*n;
+   return n*n;
 }
 
 int main()
